@@ -4,6 +4,9 @@ nav{
     justify-content: space-around;
     text-decoration: none;
     cursor: pointer;
+    height: 50px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .section{
     height: 100vh;
