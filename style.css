@@ -2,7 +2,6 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    text-decoration: none;
     cursor: pointer;
     height: 50px;
     font-size: larger;
@@ -22,12 +21,18 @@ nav{
 
 .bg-one{
     background: #E8F9FD ;
+    text-decoration: none;
+    color: black;
 }
 
 .bg-two{
     background: #79DAE8;
+    text-decoration: none;
+    color: black;
 }
 
 .bg-three{
     background: #0AA1DD;
+    text-decoration: none;
+    color: white;
 }
